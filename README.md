@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 2nd Year BCA Student<br>🔹 Learning: C, Python,SQL<br>🔹 Interests: Web Dev, Cyber security<br>🌟 Open to collaboration & learning from the community.
+🎓 3rd Year BCA Student<br>🔹 Learning: C, Python,SQL,Java,<br>🔹 Interests: Web Dev, Cyber security<br>🌟 Open to collaboration & learning from the community.
 
 
 ## 🌐 Socials:
